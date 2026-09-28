@@ -125,7 +125,6 @@ button:disabled {
   opacity: 0.7;
 }
 
-/* Пульсация кнопки, когда поле заполнено */
 button.ready {
   animation: pulse 1.5s infinite;
 }
@@ -164,7 +163,6 @@ button.ready {
   transition: color 0.3s;
 }
 
-/* FAQ */
 .faq {
   margin-top: 32px;
   border-top: 1px solid #333;
